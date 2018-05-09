@@ -1,0 +1,80 @@
+<resources>
+    <string name="app_name">Даты ЗНО</string>
+    <string name="title_tests">Практика</string>
+    <string name="title_dates">Даты</string>
+    <string name="title_notifications">Уведомления</string>
+    <string name="settings">Настройки</string>
+    <string name="title_activity_settings">Настройки</string>
+    <string name="dialog_title">Выберите века</string>
+    <string name="ok_button">Ок</string>
+    <string name="cancel_button">Отмена</string>
+    <string name="type_pick_title">Выбирите Тип</string>
+    <string name="mode_switch">Переключение режима</string>
+    <string name="true_button">Правда</string>
+    <string name="false_button">Ложь</string>
+
+    <string name="check_button">Проверить</string>
+    <string name="sotr_text">Расположите в хронологической последовательности</string>
+
+    <string name="reset_button">Заново</string>
+    <string name="exit_button">Выход</string>
+
+    <string name="current_result">Ваш текущий результат: </string>
+    <string name="best_result">Ваш лучший результат за эту сессию: </string>
+    <string name="cur_mark">Ваша текущая оценка: </string>
+
+    <string name="mark_2">Ужасно</string>
+    <string name="mark_3">Удовлетворительно</string>
+    <string name="mark_4">Хорошо</string>
+    <string name="mark_5">Отлично</string>
+    <string name="mark_20">Превосходно</string>
+
+
+    <string-array name="tests">
+        <item>Карточки</item>
+        <item>DIVIDER</item>
+        <item>Тест</item>
+        <item>Тест</item>
+        <item>DIVIDER</item>
+        <item>Правда/Ложь</item>
+        <item>Правда/Ложь</item>
+        <item>DIVIDER</item>
+        <item>Сортировка</item>
+        <item>Сортировка</item>
+        <!-- <item>Соответствие</item> -->
+        <!-- <item>Множественный выбор</item> -->
+    </string-array>
+    <string-array name="tests_description">
+        <item>Карточки с датами</item>
+        <item>DIVIDER</item>
+        <item>Бесконечный тест</item>
+        <item>20 вопросов</item>
+        <item>DIVIDER</item>
+        <item>Бесконечная проверка</item>
+        <item>20 вопросов</item>
+        <item>DIVIDER</item>
+        <item>Сортировка без конца</item>
+        <item>20 вопросов</item>
+    </string-array>
+    <string-array name="centuries">
+        <item>До XVI</item>
+        <item>XVII - XVIII</item>
+        <item>XIX</item>
+        <item>1900 - 1939</item>
+        <item>1939 - 2015</item>
+        <item>Все даты</item>
+    </string-array>
+    <string-array name="centuries_easy">
+        <item>До XVII</item>
+        <item>XVIII - XIX</item>
+        <item>1900 - 1947</item>
+        <item>1954 - 2015</item>
+        <item>Все даты</item>
+    </string-array>
+    <string-array name="pick_type">
+        <item>Только Даты</item>
+        <item>Только События</item>
+        <item>Смешанно</item>
+    </string-array>
+
+</resources>

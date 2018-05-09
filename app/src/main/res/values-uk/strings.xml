@@ -1,0 +1,80 @@
+<resources>
+    <string name="app_name">Дати ЗНО</string>
+    <string name="title_tests">Практика</string>
+    <string name="title_dates">Дати</string>
+    <string name="title_notifications">Повідомлення</string>
+    <string name="settings">Параметри</string>
+    <string name="title_activity_settings">Параметри</string>
+    <string name="dialog_title">Виберіть століття</string>
+    <string name="ok_button">Ок</string>
+    <string name="cancel_button">Відміна</string>
+    <string name="type_pick_title">Виберіть тип</string>
+    <string name="mode_switch">Як змінити спосіб</string>
+    <string name="true_button">Правда</string>
+    <string name="false_button">Брехня</string>
+
+    <string name="check_button">Перевірити</string>
+    <string name="sotr_text">Розмістіть в хронологічній послідовності</string>
+
+    <string name="reset_button">Заново</string>
+    <string name="exit_button">Вихід</string>
+
+    <string name="current_result">Ваш поточний результат: </string>
+    <string name="best_result">Ваш найкращий результат за цю сесію: </string>
+    <string name="cur_mark">Ваша поточна оцінка: </string>
+
+    <string name="mark_2">Жахливо</string>
+    <string name="mark_3">Задовільно</string>
+    <string name="mark_4">Добре</string>
+    <string name="mark_5">Відмінно</string>
+    <string name="mark_20">Чудово</string>
+
+
+    <string-array name="tests">
+        <item>Картки</item>
+        <item>DIVIDER</item>
+        <item>Тест</item>
+        <item>Тест</item>
+        <item>DIVIDER</item>
+        <item>Правда/Брехня</item>
+        <item>Правда/Брехня</item>
+        <item>DIVIDER</item>
+        <item>Сортування</item>
+        <item>Сортування</item>
+        <!-- <item>Соответствие</item> -->
+        <!-- <item>Множественный выбор</item> -->
+    </string-array>
+    <string-array name="tests_description">
+        <item>Картки з датами</item>
+        <item>DIVIDER</item>
+        <item>Нескінченний тест</item>
+        <item>20 питань</item>
+        <item>DIVIDER</item>
+        <item>Нескінченна перевірка</item>
+        <item>20 питань</item>
+        <item>DIVIDER</item>
+        <item>Сортування без кінця</item>
+        <item>20 питань</item>
+    </string-array>
+    <string-array name="centuries">
+        <item>До XVI</item>
+        <item>XVII - XVIII</item>
+        <item>XIX</item>
+        <item>1900 - 1939</item>
+        <item>1939 - 2015</item>
+        <item>Всі дати</item>
+    </string-array>
+    <string-array name="centuries_easy">
+        <item>До XVII</item>
+        <item>XVIII - XIX</item>
+        <item>1900 - 1947</item>
+        <item>1954 - 2015</item>
+        <item>Всі дати</item>
+    </string-array>
+    <string-array name="pick_type">
+        <item>Тільки дати</item>
+        <item>Тільки події</item>
+        <item>Змішано</item>
+    </string-array>
+
+</resources>
