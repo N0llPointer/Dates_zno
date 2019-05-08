@@ -1,14 +1,42 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <color name="colorPrimary">#0057b8</color>
-    <color name="colorPrimaryDark">#862414</color>
-    <color name="colorAccent">#448aff</color>
+    <color name="colorPrimary">#1565C0</color>
+    <color name="colorPrimaryDark">#1565C0</color>
+    <color name="colorAccent">#26A69A</color>
     <color name="colorBackground">#c4bcbc</color>
     <color name="colorDatesShowDown">#ffffff</color>
     <color name="colorPrimaryDarkCards">#0d47a1</color>
     <color name="colorBackgroundTest">#efefef</color>
     <color name="colorPrimaryEasy">#2e7d32</color>
+    <color name="colorBackgroundDivider">#FAFAFA</color>
+
+    <!--<color name="colorResultTabsUnselected">#FFFFFF</color>-->
+
+    <color name="colorUnselectedTab">#757575</color>
+
+    <color name="colorPrimaryMistakeMode">#862414</color>
+    <color name="colorPrimaryEasyMistakeMode">#1B5E20</color>
     <color name="colorTrueButton">#43a047</color>
     <color name="colorFalseButton">#ff5252</color>
-    <color name="colorBackgroundDivider">#FAFAFA</color>
+    <color name="colorMask">#ea37474F</color>
+
+    <!--<color name="colorResultTabsUnselected">#FFFFFF</color>-->
+
+    <color name="colorCards">#164FA5</color>
+    <color name="colorTest">#23A527</color>
+    <color name="colorTrueFalse">#ABA619</color>
+    <color name="colorSort">#00BBD2</color>
+    <color name="colorDistribution">#2962FF</color>
+
+    <color name="colorVoiceCards">#1976D2</color>
+
+    <color name="colorGameBackground">#0D47A1</color>
+    <color name="colorGameCards">#827717</color>
+
+    <color name="colorMarkBad">#B71C1C</color>
+    <color name="colorMarkNormal">#FFEB3B</color>
+    <color name="colorMarkGood">#43a047</color>
+
+    <!--<color name="ic_launcher_background">#B71C1C</color>-->
+
 </resources>
